@@ -1,0 +1,26 @@
+body{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  }
+  .navbar{
+    background-color: #28a745;
+  }
+  .navbar-nav{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+  .formulario{
+    background-color: #28A745;
+    color: #FFF;
+  }
+  .descuento{
+    color: #28A745;
+    font-weight: bold;
+  }
+  .text-body-secondary{
+    font-weight: lighter;
+  }
+  a:link, a:hover, a:active, a:visited{
+    text-decoration: none;
+    }
